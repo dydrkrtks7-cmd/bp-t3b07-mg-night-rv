@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mullae-room-note.cheongdam-shirts-zone.xyz/sitemap.xml
